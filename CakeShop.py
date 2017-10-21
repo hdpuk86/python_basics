@@ -1,5 +1,3 @@
-# from Cake import Cake
-
 class CakeShop:
     def __init__(self, name, cakes):
         self.name = name
